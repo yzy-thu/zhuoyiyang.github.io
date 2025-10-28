@@ -5,54 +5,92 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
-Welcome to the academic homepage of **Zhuoyi Yang**, a researcher at **Tsinghua University** specializing in **Deep Learning** and **Artificial Intelligence**.  
-My work focuses on the theory and application of deep neural networks, with contributions in representation learning, multimodal modeling, and large-scale AI systems.
-
 
 ---
 
 ### About Me
-I am a researcher at **Tsinghua University**, focusing on cutting-edge deep learning algorithms and their integration into real-world intelligent systems.  
-My research spans neural architecture design, multimodal learning, and scalable AI training frameworks.  
-I am passionate about bridging theoretical insights with practical deployment, enabling robust and efficient machine-learning models for complex data.
+I am a PhD Candidate at **Tsinghua University**, with research interests both in multimodal generation and understanding.
+My work focuses on **text-to-image/video generation**, **diffusion models**, and **visual understanding**. I have contributed to projects including the CogVideo, CogView, and CogVLM series.
+I am passionate about exploring generative AI and developing models that bridge vision and language for creative content generation.
+
+**I am currently seeking visiting opportunities** to collaborate with researchers and expand my expertise in multimodal AI.
 
 ---
 
 ### Selected Publications
 
-#### 1. Deep learning-based representation for structured data
-![Publication 1](https://via.placeholder.com/600x300.png?text=Paper+1+Image)  
-**Yang, Z.**, et al. *Deep learning-based representation for structured data.*  
-*IEEE Transactions on Neural Networks (2023)*  
-Explores representation learning for structured and semi-structured data through deep models optimized for relational patterns.
+
+---
+#### Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model
+Zhenxing Zhang, Jiayan Teng, **Zhuoyi Yang**, Tiankun Cao, et al.
+*arXiv Preprint*
+[arXiv](https://arxiv.org/abs/2510.18573) | [github](https://github.com/CriliasMiller/Kaleido)
 
 ---
 
-#### 2. Neural networks for large-scale visual recognition
-![Publication 2](https://via.placeholder.com/600x300.png?text=Paper+2+Image)  
-**Yang, Z.**, et al. *Neural networks for large-scale visual recognition.*  
-*CVPR (2022)*  
-Introduces a scalable architecture for high-performance image classification, improving accuracy and efficiency for large datasets.
+#### CogVideoX: Text-to-Video Diffusion Models with an Expert Transformer
+**Zhuoyi Yang\***, Jiayan Teng\*, Wendi Zheng, Ming Ding, Shiyu Huang, Jiazheng Xu, et al.
+*ICLR 2025*
+[arXiv](https://arxiv.org/abs/2408.06072) | [github(12k stars)](https://github.com/THUDM/CogVideo)
+
+
+---
+#### MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models
+Wenyi Hong\*, Yean Cheng\*, **Zhuoyi Yang\***, Weihan Wang, et al.
+*CVPR 2025*
+[arXiv](https://arxiv.org/abs/2501.02955) | [github](https://github.com/zai-org/MotionBench)
 
 ---
 
-#### 3. Transformer architectures in multi-modal learning
-![Publication 3](https://via.placeholder.com/600x300.png?text=Paper+3+Image)  
-**Yang, Z.**, et al. *Transformer architectures in multi-modal learning.*  
-*NeurIPS (2021)*  
-Presents a unified Transformer-based model integrating visual and textual modalities, achieving state-of-the-art results in cross-modal reasoning.
+#### Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer
+**Zhuoyi Yang**, Heyang Jiang, Wenyi Hong, Jiayan Teng, Wendi Zheng, Yuxiao Dong, Ming Ding, Jie Tang
+*ECCV 2024*
+[arXiv](https://arxiv.org/abs/2405.04312) | [github](https://github.com/zai-org/Inf-DiT)
+
+---
+
+#### CogVLM: Visual Expert for Pretrained Language Models
+Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, **Zhuoyi Yang**, et al.
+*NeurIPS 2024*
+[arXiv](https://arxiv.org/abs/2311.03079) | [github(6.7k stars)](https://github.com/zai-org/CogVLM)
+
+---
+
+#### CogVLM2: Visual Language Models for Image and Video Understanding
+Wenyi Hong, Weihan Wang, Ming Ding, Wenmeng Yu, Qingsong Lv, Yan Wang, Yean Cheng, Shiyu Huang, Junhui Ji, **Zhuoyi Yang**, et al.
+*arXiv preprint arXiv:2408.16500*
+[arXiv](https://arxiv.org/abs/2408.16500) | [github](https://github.com/zai-org/CogVLM2)
+
+---
+#### CogView: Mastering Text-to-Image Generation via Transformers
+Ming Ding, **Zhuoyi Yang**, Wenyi Hong, et al.
+*NeurIPS 2021*
+[arXiv](https://arxiv.org/abs/2105.13290) | [github(1.8k stars)](https://github.com/zai-org/CogView)
+
+---
+
+#### CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion
+Wendi Zheng, Jiayan Teng, **Zhuoyi Yang**, et al.
+*ECCV 2024*
+[arXiv](https://arxiv.org/abs/2403.05121) | [github(1.1k stars)](https://github.com/zai-org/CogView4)
+
+---
+#### Parameter-Efficient Tuning Makes a Good Classification Head
+**Zhuoyi Yang**, Ming Ding, Yanhui Guo, Qingsong Lv, Jie Tang
+*EMNLP 2022*
+[arXiv](https://arxiv.org/abs/2210.16771) | [github](https://github.com/THUDM/Efficient-Head-Finetuning)
+
+---
+
+#### GLM-130B: An Open Bilingual Pre-Trained Model
+Aohan Zeng, Xiao Liu, Zhengxiao Du, Zihan Wang, Hanyu Lai, Ming Ding, **Zhuoyi Yang**, et al.
+*ICLR 2023*
+[arXiv](https://arxiv.org/abs/2210.02414) | [github(7.7k stars)](https://github.com/zai-org/GLM-130B)
+
 
 ---
 
 For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?user=tgAt-gEAAAAJ).
-
----
-
-### Contact
-📍 Department of Computer Science, Tsinghua University, Beijing, China  
-✉️ [zhuoyi.yang@tsinghua.edu.cn](mailto:zhuoyi.yang@tsinghua.edu.cn)
 
 ---
 
