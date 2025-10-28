@@ -10,18 +10,6 @@ redirect_from:
 Welcome to the academic homepage of **Zhuoyi Yang**, a researcher at **Tsinghua University** specializing in **Deep Learning** and **Artificial Intelligence**.  
 My work focuses on the theory and application of deep neural networks, with contributions in representation learning, multimodal modeling, and large-scale AI systems.
 
-<div align="center">
-  <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=tgAt-gEAAAAJ&citpid=6" alt="Zhuoyi Yang" width="160" style="border-radius:50%;">
-</div>
-
----
-
-### Academic Profile
-- **Affiliation:** Tsinghua University  
-- **Email:** [zhuoyi.yang@tsinghua.edu.cn](mailto:zhuoyi.yang@tsinghua.edu.cn)  
-- **Research Areas:** Deep Learning · Machine Learning · Computer Vision · Artificial Intelligence  
-- **Google Scholar:** [https://scholar.google.com/citations?user=tgAt-gEAAAAJ](https://scholar.google.com/citations?user=tgAt-gEAAAAJ)  
-- **Citations:** 4,844 (as of 2025)  
 
 ---
 
